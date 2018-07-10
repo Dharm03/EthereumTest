@@ -6,7 +6,7 @@ const { interface, bytecode } = require('../compile');
 
 let accounts;
 let inbox;
-let test
+
 
 beforeEach(async () => {
 // get the list of all accounts on ganache
