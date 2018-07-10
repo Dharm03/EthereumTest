@@ -1,5 +1,5 @@
 
-
+test
 { contracts: 
    { ':Inbox': 
       { assembly: [Object],
